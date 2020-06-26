@@ -15,4 +15,3 @@ def Cat
   
 end
 
-maru = 
