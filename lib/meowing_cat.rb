@@ -9,8 +9,10 @@ def Cat
 
 # puts meow!
 
-  attr_writer :meow
-  
-  attr_reader :meow
+ def meow
+   puts "meow!"
+ end
   
 end
+
+maru = 
