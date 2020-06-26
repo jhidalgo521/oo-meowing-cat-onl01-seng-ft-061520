@@ -11,4 +11,6 @@ def Cat
 
   attr_writer :meow
   
+  attr_reader :meow
   
+end
