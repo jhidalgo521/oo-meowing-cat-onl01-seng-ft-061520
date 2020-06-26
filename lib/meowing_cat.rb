@@ -5,7 +5,10 @@
 def Cat 
   
 # getter and setter use macro attr_accessible
-attr_accessible :name 
+  attr_accessible :name 
 
 # puts meow!
 
+  attr_writer :meow
+  
+  
