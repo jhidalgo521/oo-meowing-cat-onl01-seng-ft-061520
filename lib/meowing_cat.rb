@@ -5,6 +5,6 @@
 def Cat 
   
 # getter and setter use macro attr_accessible
-attr_accessible
+attr_accessible:name 
 
 # puts meow!
